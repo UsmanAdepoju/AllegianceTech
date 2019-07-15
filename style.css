@@ -6,6 +6,14 @@
         color: white;
         box-sizing: border-box;
     }
+ .profile h2 {
+        text-align: center
+    }
+    
+    .company h1 {
+        display: inline-block;
+        text-align: center;
+    }
     
     body {
         font-family: 'Open Sans', serif;
