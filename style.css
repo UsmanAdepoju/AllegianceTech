@@ -51,7 +51,7 @@
     }
     
     .heading {
-        background-image: url('images/chip.jpg');
+        background-image: url('chip.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: 1500px;
@@ -61,7 +61,7 @@
     }
     
     .intro-company {
-        background-image: url('images/tech.jpg');
+        background-image: url('tech.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: 1500px;
@@ -71,7 +71,7 @@
     
     .intro-text {
         color: white;
-        background-image: url('images/busns.jpg');
+        background-image: url('busns.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: 1500px;
@@ -88,7 +88,7 @@
     }
     
     .contact-us {
-        background-image: url('images/contact.jpg');
+        background-image: url('contact.jpg');
         background-repeat: no-repeat;
         background-position: center;
         background-size: 1500px;
