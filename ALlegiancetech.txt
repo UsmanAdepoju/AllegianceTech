@@ -1,0 +1,164 @@
+ <div class="intro-text">
+        <h1>ALLEGIANCE TECHNOLOGIES</h1>
+        <p>We Deliver World-Class Technology Enabled Business Solutions & Services</p>
+    </div>
+
+
+    <footer>
+        <ul>
+            <li>About us </li>
+            <li>Privacy Policy</li>
+            <li>Site Map</li>
+            <li>Contact Us</li>
+            <li>Blog</li>
+        </ul>
+
+        <ul>
+            <li>facebook</li>
+            <li>twitter</li>
+            <li>instagram</li>
+            <li>linkedin</li>
+            <p>�2018 Allegiance Technologies. All rights reserved.</p>
+        </ul>
+    </footer>
+
+    <div class="socials">
+        <a href="#" class="fa fa-facebook"></a>
+        <a href="#" class="fa fa-twitter"></a>
+    </div>
+HOME Page NAvbar
+             OUR COMPANY
+		SOLUTIONS
+            CONTACT
+
+----------
+INTRO TEXT
+ALLEGIANCE TECHNOLOGIES
+       We Deliver World-Class Technology Enabled Business Solutions &Services
+
+Footer (General)
+About us 
+Privacy Policy
+Site Map
+Contact Us
+Blog
+
+facebook,twitter,instagram,linkedin
+�2018 Allegiance Technologies. All rights reserved.
+
+
+---------------------------------------------------------------------------
+COMPANY PAGE
+Our Company
+Corporate Profile
+
+Allegiance Technologies is a global leader in providing technology enabled business 
+solutions and business solutions and business process services with the expertise and
+capabilities to serve the need of businesses of all sizes serving the clients world-wide. 
+Allegiance provides end-to-end services through our flexible and cost efficient delivery model that
+combines on-site and off-site operations.. Rooted in quality processes and frameworks, 
+our goal is to fully satisfy client objectives, serving as an accountable, flexible and objective partner. 
+Allegiance Technologies is headquartered in Lagos, Nigeria. We also have development facilities in India and USA
+
+Services & Capabilities
+From providing consulting and systems integration services to managing IT and 
+business functions on behalf of our clients, Allegiance Technologies provides an 
+all-encompassing offering that includes the planning, design development, 
+implementation and management of highly effective business and IT environments. 
+Our global delivery capabilities include on-site and off-shore options, giving our 
+clients the flexibility to choose the model that best meets their needs. 
+
+Through our vertical expertise in financial expertise, government and healthcare, 
+telecommunications and utilities, manufacturing, distribution and retail, we provide 
+clients with a patner that is not only expert in IT, but experts in their INDUSTRIES. 
+This combination of business knowledge and technology expertise allows us to help our 
+clients adapt as the INDUSTRIES change.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+SOLUTIONS PAGE
+
+OUR UNIQUE EXPERTISE
+
+1.	IT Infrastructure
+	We provide the best IT Infrastructure to help improve your business' processes and poilicies.
+
+
+2.	Cloud Enablement
+	At Allegiance, we manage the several aspects of cloud services ranging from deployment to maintenance.
+
+
+3.	Risk & Security
+	Allegiance can provide you with top quality Risk Management services.
+
+
+4.	Data Analytics & Insights
+	We discover patterns and trends in data that can be used to boost your business.
+
+
+5.	Technology Operations
+	At Allegiance, we offer Information Technology Operations to help run your business smoothly.
+
+
+6.	Enterprise Application Development
+	Our methodology helps in a successful on-time and above expected delivery.
+
+
+7.	Digital Experience
+	We interact with our customers using Digital Technologies.
+
+
+8.	Managed Services
+	We manage services provided to our clients.
+
+
+9.	Project Management Office
+	We implement standard project management practices and improve project success rates
+
+OUR SOLUTIONS AND EXPERTISE ARE TAILORED TO MANY INDUSTRIES
+GOVERNMENT
+MANUFACTURING
+TRAVEL & TOURISM
+HEALTHCARE
+ENERGY
+RETAIL
+FINANCIAL
+INSURANCE
+TRANSPORTATION
+
+
+-------------------------------------------------------------------------------------------------------------------------
+CONTACT PAGE
+
+There is also a send us a message portion
+
+Office Addresses 
+U.S.A
+5745 Wendy Bagwell Parkway Suite 30 Hiram, GA 30141-2885.
+
+U.K
+23 Bignell Crost, Colchester, Essex C049 9TX.
+
+NIGERIA
+Plot 17, Charles Ifeanyi Street, Lekki Phase 1, Lagos, Nigeria.
+
+Contact Lines 
+U.S.A
+678-402-6500
+
+U.K
+44-7788164921
+
+NIGERIA
+234-1-2706109
+
+E-mails 
+U.S.A
+info1@allegiancetechng.com
+
+U.K
+info2@allegiancetechng.com
+
+NIGERIA
+info3@allegiancetechng.com
